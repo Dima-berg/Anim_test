@@ -1,0 +1,48 @@
+
+shio_smoke.png
+size: 834,834
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fog/fog_1
+  rotate: false
+  xy: 0, 147
+  size: 314, 317
+  orig: 314, 317
+  offset: 0, 0
+  index: -1
+fog/fog_2
+  rotate: false
+  xy: 365, 267
+  size: 278, 268
+  orig: 278, 268
+  offset: 0, 0
+  index: -1
+fog/fog_3
+  rotate: false
+  xy: 586, 9
+  size: 248, 256
+  orig: 248, 256
+  offset: 0, 0
+  index: -1
+fog/fog_4
+  rotate: true
+  xy: 316, 9
+  size: 256, 268
+  orig: 256, 268
+  offset: 0, 0
+  index: -1
+fog/fog_5
+  rotate: false
+  xy: 365, 537
+  size: 298, 297
+  orig: 298, 297
+  offset: 0, 0
+  index: -1
+fog/fog_main
+  rotate: false
+  xy: 0, 466
+  size: 363, 368
+  orig: 363, 368
+  offset: 0, 0
+  index: -1
