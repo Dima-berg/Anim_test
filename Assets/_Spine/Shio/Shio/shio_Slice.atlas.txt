@@ -1,230 +1,230 @@
 
 shio_Slice.png
-size: 974,974
+size: 749,749
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 armLeft
-  rotate: true
-  xy: 144, 1
-  size: 90, 101
-  orig: 90, 101
+  rotate: false
+  xy: 681, 472
+  size: 68, 76
+  orig: 68, 76
   offset: 0, 0
   index: -1
 armRight
   rotate: true
-  xy: 247, 1
-  size: 90, 101
-  orig: 90, 101
+  xy: 656, 0
+  size: 68, 76
+  orig: 68, 76
   offset: 0, 0
   index: -1
 body
   rotate: false
-  xy: 296, 218
-  size: 175, 59
-  orig: 175, 59
+  xy: 607, 704
+  size: 133, 45
+  orig: 133, 45
   offset: 0, 0
   index: -1
 bubble_1
   rotate: true
-  xy: 695, 219
-  size: 55, 44
-  orig: 55, 44
+  xy: 0, 0
+  size: 42, 33
+  orig: 42, 33
   offset: 0, 0
   index: -1
 bubble_2
   rotate: false
-  xy: 439, 176
-  size: 30, 40
-  orig: 30, 40
+  xy: 562, 448
+  size: 23, 31
+  orig: 23, 31
   offset: 0, 0
   index: -1
 eyes
-  rotate: false
-  xy: 0, 17
-  size: 69, 30
-  orig: 69, 30
+  rotate: true
+  xy: 720, 650
+  size: 52, 23
+  orig: 52, 23
   offset: 0, 0
   index: -1
 head
   rotate: false
-  xy: 556, 68
-  size: 98, 103
-  orig: 98, 103
+  xy: 674, 392
+  size: 74, 78
+  orig: 74, 78
   offset: 0, 0
   index: -1
 leg_Left
   rotate: false
-  xy: 319, 126
-  size: 118, 90
-  orig: 118, 90
+  xy: 590, 504
+  size: 89, 69
+  orig: 89, 69
   offset: 0, 0
   index: -1
 leg_Right
   rotate: false
-  xy: 0, 49
-  size: 142, 104
-  orig: 142, 104
+  xy: 590, 575
+  size: 107, 79
+  orig: 107, 79
   offset: 0, 0
   index: -1
 mouth_close
   rotate: false
-  xy: 656, 68
-  size: 98, 103
-  orig: 98, 103
+  xy: 592, 142
+  size: 74, 78
+  orig: 74, 78
   offset: 0, 0
   index: -1
 mouth_open
-  rotate: false
-  xy: 756, 83
-  size: 98, 103
-  orig: 98, 103
+  rotate: true
+  xy: 668, 146
+  size: 74, 78
+  orig: 74, 78
   offset: 0, 0
   index: -1
 smoke_head
-  rotate: false
-  xy: 856, 83
-  size: 98, 103
-  orig: 98, 103
+  rotate: true
+  xy: 668, 70
+  size: 74, 78
+  orig: 74, 78
   offset: 0, 0
   index: -1
 smoke_tail_
   rotate: false
-  xy: 685, 14
-  size: 58, 52
-  orig: 58, 52
+  xy: 35, 2
+  size: 44, 40
+  orig: 44, 40
   offset: 0, 0
   index: -1
 smoke_tail_main
   rotate: false
-  xy: 0, 155
-  size: 317, 58
-  orig: 317, 58
+  xy: 365, 705
+  size: 240, 44
+  orig: 240, 44
   offset: 0, 0
   index: -1
 tail
   rotate: false
-  xy: 144, 93
-  size: 169, 60
-  orig: 169, 60
+  xy: 590, 656
+  size: 128, 46
+  orig: 128, 46
   offset: 0, 0
   index: -1
 transform/Layer 117 copy
   rotate: false
-  xy: 0, 510
-  size: 479, 464
-  orig: 479, 464
+  xy: 0, 398
+  size: 363, 351
+  orig: 363, 351
   offset: 0, 0
   index: -1
 transform/Layer 153 copy
   rotate: false
-  xy: 0, 215
-  size: 294, 293
-  orig: 294, 293
+  xy: 365, 481
+  size: 223, 222
+  orig: 223, 222
   offset: 0, 0
   index: -1
 transform/Layer 2
-  rotate: false
-  xy: 481, 501
-  size: 233, 214
-  orig: 233, 214
+  rotate: true
+  xy: 0, 44
+  size: 176, 162
+  orig: 176, 162
   offset: 0, 0
   index: -1
 transform/Layer 3
-  rotate: false
-  xy: 733, 737
-  size: 222, 237
-  orig: 222, 237
+  rotate: true
+  xy: 562, 222
+  size: 168, 180
+  orig: 168, 180
   offset: 0, 0
   index: -1
 transform/Layer 4 copy 2
-  rotate: true
-  xy: 523, 276
-  size: 223, 216
-  orig: 223, 216
+  rotate: false
+  xy: 169, 65
+  size: 169, 164
+  orig: 169, 164
   offset: 0, 0
   index: -1
 transform/Layer 4 copy 3
   rotate: false
-  xy: 733, 517
-  size: 224, 218
-  orig: 224, 218
+  xy: 169, 231
+  size: 170, 165
+  orig: 170, 165
   offset: 0, 0
   index: -1
 transform/Layer 4 copy 4
-  rotate: true
-  xy: 741, 291
-  size: 224, 216
-  orig: 224, 216
+  rotate: false
+  xy: 341, 123
+  size: 170, 164
+  orig: 170, 164
   offset: 0, 0
   index: -1
 transform/Layer 4 copy 5
-  rotate: false
-  xy: 296, 279
-  size: 225, 220
-  orig: 225, 220
+  rotate: true
+  xy: 0, 225
+  size: 171, 167
+  orig: 171, 167
   offset: 0, 0
   index: -1
 transform/Layer 7
-  rotate: false
-  xy: 481, 717
-  size: 250, 257
-  orig: 250, 257
+  rotate: true
+  xy: 365, 289
+  size: 190, 195
+  orig: 190, 195
   offset: 0, 0
   index: -1
 transform/Shad_1
-  rotate: false
-  xy: 350, 15
-  size: 101, 109
-  orig: 101, 109
+  rotate: true
+  xy: 590, 425
+  size: 77, 82
+  orig: 77, 82
   offset: 0, 0
   index: -1
 transform/Shad_2
-  rotate: true
-  xy: 741, 188
-  size: 101, 109
-  orig: 101, 109
+  rotate: false
+  xy: 340, 39
+  size: 77, 82
+  orig: 77, 82
   offset: 0, 0
   index: -1
 transform/Shad_3
-  rotate: true
-  xy: 852, 188
-  size: 101, 109
-  orig: 101, 109
+  rotate: false
+  xy: 419, 39
+  size: 77, 82
+  orig: 77, 82
   offset: 0, 0
   index: -1
 transform/Shad_4
-  rotate: true
-  xy: 473, 173
-  size: 101, 109
-  orig: 101, 109
+  rotate: false
+  xy: 498, 39
+  size: 77, 82
+  orig: 77, 82
   offset: 0, 0
   index: -1
 transform/Shad_5
-  rotate: true
-  xy: 584, 173
-  size: 101, 109
-  orig: 101, 109
+  rotate: false
+  xy: 513, 138
+  size: 77, 82
+  orig: 77, 82
   offset: 0, 0
   index: -1
 transform/Shad_6
   rotate: false
-  xy: 453, 62
-  size: 101, 109
-  orig: 101, 109
+  xy: 577, 54
+  size: 77, 82
+  orig: 77, 82
   offset: 0, 0
   index: -1
 wing_left
-  rotate: false
-  xy: 631, 1
-  size: 52, 65
-  orig: 52, 65
+  rotate: true
+  xy: 699, 550
+  size: 40, 50
+  orig: 40, 50
   offset: 0, 0
   index: -1
 wing_right
-  rotate: false
-  xy: 556, 0
-  size: 73, 66
-  orig: 73, 66
+  rotate: true
+  xy: 699, 592
+  size: 56, 50
+  orig: 56, 50
   offset: 0, 0
   index: -1
