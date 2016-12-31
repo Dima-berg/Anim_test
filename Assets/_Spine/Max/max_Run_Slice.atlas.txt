@@ -6,28 +6,28 @@ filter: Linear,Linear
 repeat: none
 B_images/arm_left_1
   rotate: false
-  xy: 768, 82
+  xy: 612, 0
   size: 87, 28
   orig: 87, 28
   offset: 0, 0
   index: -1
 B_images/arm_left_3
-  rotate: true
-  xy: 879, 763
+  rotate: false
+  xy: 436, 393
   size: 88, 29
   orig: 88, 29
   offset: 0, 0
   index: -1
 B_images/arm_left_4
-  rotate: false
-  xy: 672, 12
+  rotate: true
+  xy: 203, 33
   size: 39, 29
   orig: 39, 29
   offset: 0, 0
   index: -1
 B_images/arm_right_2
   rotate: false
-  xy: 857, 81
+  xy: 267, 94
   size: 39, 29
   orig: 39, 29
   offset: 0, 0
@@ -40,8 +40,8 @@ B_images/arm_right_3
   offset: 0, 0
   index: -1
 B_images/hair_1
-  rotate: false
-  xy: 416, 396
+  rotate: true
+  xy: 818, 752
   size: 99, 81
   orig: 99, 81
   offset: 0, 0
@@ -54,29 +54,29 @@ B_images/head
   offset: 0, 0
   index: -1
 B_images/leg_Left_1
-  rotate: false
-  xy: 296, 352
+  rotate: true
+  xy: 0, 14
   size: 58, 125
   orig: 58, 125
   offset: 0, 0
   index: -1
 B_images/leg_right_2
-  rotate: false
-  xy: 296, 352
+  rotate: true
+  xy: 0, 14
   size: 58, 125
   orig: 58, 125
   offset: 0, 0
   index: -1
 B_images/tors_1
   rotate: true
-  xy: 713, 0
+  xy: 127, 12
   size: 60, 74
   orig: 60, 74
   offset: 0, 0
   index: -1
 B_images/tors_2
   rotate: false
-  xy: 612, 0
+  xy: 701, 0
   size: 43, 37
   orig: 43, 37
   offset: 0, 0
@@ -97,56 +97,56 @@ arm_left_2
   index: -1
 arm_left_3
   rotate: true
-  xy: 517, 389
+  xy: 526, 334
   size: 88, 29
   orig: 88, 29
   offset: 0, 0
   index: -1
 arm_left_4
   rotate: false
-  xy: 898, 81
+  xy: 308, 94
   size: 39, 29
   orig: 39, 29
   offset: 0, 0
   index: -1
 arm_left_5
-  rotate: false
-  xy: 84, 2
+  rotate: true
+  xy: 531, 445
   size: 32, 21
   orig: 32, 21
   offset: 0, 0
   index: -1
 arm_left_6
   rotate: false
-  xy: 821, 2
+  xy: 203, 2
   size: 33, 29
   orig: 33, 29
   offset: 0, 0
   index: -1
 arm_right_1
-  rotate: true
-  xy: 789, 0
+  rotate: false
+  xy: 352, 366
   size: 80, 30
   orig: 80, 30
   offset: 0, 0
   index: -1
 arm_right_2
   rotate: false
-  xy: 187, 82
+  xy: 349, 94
   size: 39, 29
   orig: 39, 29
   offset: 0, 0
   index: -1
 arm_right_3
   rotate: false
-  xy: 416, 364
+  xy: 434, 361
   size: 88, 30
   orig: 88, 30
   offset: 0, 0
   index: -1
 arm_right_4
   rotate: false
-  xy: 852, 50
+  xy: 390, 94
   size: 39, 29
   orig: 39, 29
   offset: 0, 0
@@ -160,98 +160,119 @@ arm_right_5
   index: -1
 arm_right_6
   rotate: false
-  xy: 893, 50
+  xy: 873, 49
   size: 36, 29
   orig: 36, 29
   offset: 0, 0
   index: -1
 hair_1
-  rotate: true
-  xy: 818, 753
+  rotate: false
+  xy: 773, 19
   size: 98, 59
   orig: 98, 59
   offset: 0, 0
   index: -1
 hair_2
-  rotate: false
-  xy: 84, 25
+  rotate: true
+  xy: 296, 365
   size: 93, 54
   orig: 93, 54
   offset: 0, 0
   index: -1
 head
   rotate: false
-  xy: 0, 0
+  xy: 352, 398
   size: 82, 79
   orig: 82, 79
   offset: 0, 0
   index: -1
 leg_Left_1
   rotate: false
-  xy: 612, 39
+  xy: 672, 39
   size: 58, 116
   orig: 58, 116
   offset: 0, 0
   index: -1
 leg_right_1
   rotate: false
-  xy: 672, 43
+  xy: 732, 43
   size: 39, 112
   orig: 39, 112
   offset: 0, 0
   index: -1
 leg_right_2
   rotate: false
-  xy: 356, 352
+  xy: 612, 30
   size: 58, 125
   orig: 58, 125
   offset: 0, 0
   index: -1
 scarf_1
-  rotate: true
-  xy: 910, 787
+  rotate: false
+  xy: 446, 313
   size: 64, 46
   orig: 64, 46
   offset: 0, 0
   index: -1
 scarf_2
-  rotate: false
-  xy: 0, 81
+  rotate: true
+  xy: 296, 460
   size: 185, 30
   orig: 185, 30
   offset: 0, 0
   index: -1
 scarf_3
-  rotate: true
-  xy: 296, 509
+  rotate: false
+  xy: 773, 80
   size: 136, 30
   orig: 136, 30
   offset: 0, 0
   index: -1
-stunstar
+spirits/cat_ear
+  rotate: true
+  xy: 911, 53
+  size: 57, 45
+  orig: 57, 45
+  offset: 0, 0
+  index: -1
+spirits/cat_ear2
   rotate: false
-  xy: 296, 479
+  xy: 230, 89
+  size: 35, 34
+  orig: 35, 34
+  offset: 0, 0
+  index: -1
+spirits/cat_tail
+  rotate: false
+  xy: 0, 74
+  size: 183, 37
+  orig: 183, 37
+  offset: 0, 0
+  index: -1
+stunstar
+  rotate: true
+  xy: 512, 306
   size: 26, 28
   orig: 26, 28
   offset: 0, 0
   index: -1
 tors_1
-  rotate: false
-  xy: 713, 62
+  rotate: true
+  xy: 436, 424
   size: 53, 93
   orig: 53, 93
   offset: 0, 0
   index: -1
 tors_2
-  rotate: true
-  xy: 910, 742
+  rotate: false
+  xy: 185, 74
   size: 43, 37
   orig: 43, 37
   offset: 0, 0
   index: -1
 tors_3
   rotate: true
-  xy: 821, 33
+  xy: 873, 0
   size: 47, 29
   orig: 47, 29
   offset: 0, 0
