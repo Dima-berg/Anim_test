@@ -1,0 +1,69 @@
+
+Wall CUT_back.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/1
+  rotate: false
+  xy: 0, 0
+  size: 347, 268
+  orig: 347, 268
+  offset: 0, 0
+  index: -1
+effect/2
+  rotate: false
+  xy: 1259, 1624
+  size: 260, 271
+  orig: 260, 271
+  offset: 0, 0
+  index: -1
+effect/3
+  rotate: false
+  xy: 450, 707
+  size: 277, 287
+  orig: 277, 287
+  offset: 0, 0
+  index: -1
+effect/4
+  rotate: false
+  xy: 450, 479
+  size: 215, 226
+  orig: 215, 226
+  offset: 0, 0
+  index: -1
+effect/5
+  rotate: false
+  xy: 1259, 1429
+  size: 244, 193
+  orig: 244, 193
+  offset: 0, 0
+  index: -1
+effect/6
+  rotate: false
+  xy: 920, 1023
+  size: 233, 159
+  orig: 233, 159
+  offset: 0, 0
+  index: -1
+effect/All clouds merged
+  rotate: false
+  xy: 0, 996
+  size: 918, 899
+  orig: 918, 899
+  offset: 0, 0
+  index: -1
+effect/Backwall
+  rotate: false
+  xy: 0, 270
+  size: 448, 724
+  orig: 448, 724
+  offset: 0, 0
+  index: -1
+effect/Light stripes
+  rotate: false
+  xy: 920, 1184
+  size: 337, 711
+  orig: 337, 711
+  offset: 0, 0
+  index: -1

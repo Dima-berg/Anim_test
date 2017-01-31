@@ -1,0 +1,20 @@
+
+skeleton.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/Spirit_head
+  rotate: false
+  xy: 0, 47
+  size: 69, 73
+  orig: 69, 73
+  offset: 0, 0
+  index: -1
+image/Spirit_jaws
+  rotate: false
+  xy: 0, 0
+  size: 65, 45
+  orig: 65, 45
+  offset: 0, 0
+  index: -1

@@ -66,7 +66,7 @@ namespace Spine.Unity.Modules {
 
 		readonly Dictionary<Material, Material> materialTable = new Dictionary<Material, Material>();
 
-		void Start () {
+		public void Start () {
 			if (ghostShader == null)
 				ghostShader = Shader.Find(GhostingShaderName);
 
@@ -155,8 +155,13 @@ namespace Spine.Unity.Modules {
 		}
 
 		void OnDestroy () {
-			for (int i = 0; i < maximumGhosts; i++)
-				if (pool[i] != null) pool[i].Cleanup();
+            for (int i = 0; i < maximumGhosts; i++)
+            {
+                if (pool[i] != null)
+                {
+                    pool[i].Cleanup();
+                }
+            }
 
 			foreach (var mat in materialTable.Values)
 				Destroy(mat);

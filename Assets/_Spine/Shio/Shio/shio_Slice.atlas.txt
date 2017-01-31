@@ -1,230 +1,90 @@
 
 shio_Slice.png
-size: 749,749
+size: 1024,1024
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 armLeft
   rotate: false
-  xy: 681, 472
-  size: 68, 76
-  orig: 68, 76
+  xy: 0, 258
+  size: 137, 153
+  orig: 137, 153
   offset: 0, 0
   index: -1
 armRight
-  rotate: true
-  xy: 656, 0
-  size: 68, 76
-  orig: 68, 76
+  rotate: false
+  xy: 0, 103
+  size: 137, 153
+  orig: 137, 153
   offset: 0, 0
   index: -1
 body
-  rotate: false
-  xy: 607, 704
-  size: 133, 45
-  orig: 133, 45
-  offset: 0, 0
-  index: -1
-bubble_1
   rotate: true
-  xy: 0, 0
-  size: 42, 33
-  orig: 42, 33
-  offset: 0, 0
-  index: -1
-bubble_2
-  rotate: false
-  xy: 562, 448
-  size: 23, 31
-  orig: 23, 31
-  offset: 0, 0
-  index: -1
-eyes
-  rotate: true
-  xy: 720, 650
-  size: 52, 23
-  orig: 52, 23
+  xy: 0, 572
+  size: 266, 90
+  orig: 266, 90
   offset: 0, 0
   index: -1
 head
-  rotate: false
-  xy: 674, 392
-  size: 74, 78
-  orig: 74, 78
+  rotate: true
+  xy: 475, 850
+  size: 148, 157
+  orig: 148, 157
   offset: 0, 0
   index: -1
 leg_Left
-  rotate: false
-  xy: 590, 504
-  size: 89, 69
-  orig: 89, 69
+  rotate: true
+  xy: 92, 659
+  size: 179, 137
+  orig: 179, 137
   offset: 0, 0
   index: -1
 leg_Right
   rotate: false
-  xy: 590, 575
-  size: 107, 79
-  orig: 107, 79
+  xy: 0, 840
+  size: 215, 158
+  orig: 215, 158
   offset: 0, 0
   index: -1
 mouth_close
-  rotate: false
-  xy: 592, 142
-  size: 74, 78
-  orig: 74, 78
+  rotate: true
+  xy: 634, 850
+  size: 148, 157
+  orig: 148, 157
   offset: 0, 0
   index: -1
 mouth_open
   rotate: true
-  xy: 668, 146
-  size: 74, 78
-  orig: 74, 78
+  xy: 793, 850
+  size: 148, 157
+  orig: 148, 157
   offset: 0, 0
   index: -1
 smoke_head
-  rotate: true
-  xy: 668, 70
-  size: 74, 78
-  orig: 74, 78
-  offset: 0, 0
-  index: -1
-smoke_tail_
   rotate: false
-  xy: 35, 2
-  size: 44, 40
-  orig: 44, 40
-  offset: 0, 0
-  index: -1
-smoke_tail_main
-  rotate: false
-  xy: 365, 705
-  size: 240, 44
-  orig: 240, 44
+  xy: 0, 413
+  size: 148, 157
+  orig: 148, 157
   offset: 0, 0
   index: -1
 tail
   rotate: false
-  xy: 590, 656
-  size: 128, 46
-  orig: 128, 46
-  offset: 0, 0
-  index: -1
-transform/Layer 117 copy
-  rotate: false
-  xy: 0, 398
-  size: 363, 351
-  orig: 363, 351
-  offset: 0, 0
-  index: -1
-transform/Layer 153 copy
-  rotate: false
-  xy: 365, 481
-  size: 223, 222
-  orig: 223, 222
-  offset: 0, 0
-  index: -1
-transform/Layer 2
-  rotate: true
-  xy: 0, 44
-  size: 176, 162
-  orig: 176, 162
-  offset: 0, 0
-  index: -1
-transform/Layer 3
-  rotate: true
-  xy: 562, 222
-  size: 168, 180
-  orig: 168, 180
-  offset: 0, 0
-  index: -1
-transform/Layer 4 copy 2
-  rotate: false
-  xy: 169, 65
-  size: 169, 164
-  orig: 169, 164
-  offset: 0, 0
-  index: -1
-transform/Layer 4 copy 3
-  rotate: false
-  xy: 169, 231
-  size: 170, 165
-  orig: 170, 165
-  offset: 0, 0
-  index: -1
-transform/Layer 4 copy 4
-  rotate: false
-  xy: 341, 123
-  size: 170, 164
-  orig: 170, 164
-  offset: 0, 0
-  index: -1
-transform/Layer 4 copy 5
-  rotate: true
-  xy: 0, 225
-  size: 171, 167
-  orig: 171, 167
-  offset: 0, 0
-  index: -1
-transform/Layer 7
-  rotate: true
-  xy: 365, 289
-  size: 190, 195
-  orig: 190, 195
-  offset: 0, 0
-  index: -1
-transform/Shad_1
-  rotate: true
-  xy: 590, 425
-  size: 77, 82
-  orig: 77, 82
-  offset: 0, 0
-  index: -1
-transform/Shad_2
-  rotate: false
-  xy: 340, 39
-  size: 77, 82
-  orig: 77, 82
-  offset: 0, 0
-  index: -1
-transform/Shad_3
-  rotate: false
-  xy: 419, 39
-  size: 77, 82
-  orig: 77, 82
-  offset: 0, 0
-  index: -1
-transform/Shad_4
-  rotate: false
-  xy: 498, 39
-  size: 77, 82
-  orig: 77, 82
-  offset: 0, 0
-  index: -1
-transform/Shad_5
-  rotate: false
-  xy: 513, 138
-  size: 77, 82
-  orig: 77, 82
-  offset: 0, 0
-  index: -1
-transform/Shad_6
-  rotate: false
-  xy: 577, 54
-  size: 77, 82
-  orig: 77, 82
+  xy: 217, 906
+  size: 256, 92
+  orig: 256, 92
   offset: 0, 0
   index: -1
 wing_left
   rotate: true
-  xy: 699, 550
-  size: 40, 50
-  orig: 40, 50
+  xy: 92, 577
+  size: 80, 99
+  orig: 80, 99
   offset: 0, 0
   index: -1
 wing_right
-  rotate: true
-  xy: 699, 592
-  size: 56, 50
-  orig: 56, 50
+  rotate: false
+  xy: 0, 0
+  size: 111, 101
+  orig: 111, 101
   offset: 0, 0
   index: -1

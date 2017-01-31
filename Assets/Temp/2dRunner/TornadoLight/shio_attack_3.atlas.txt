@@ -1,0 +1,55 @@
+
+shio_attack_3.png
+size: 396,396
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Attack_3/tornado/Layer 13_1
+  rotate: false
+  xy: 143, 118
+  size: 119, 116
+  orig: 119, 116
+  offset: 0, 0
+  index: -1
+Attack_3/tornado/Layer 13_2
+  rotate: false
+  xy: 264, 118
+  size: 119, 116
+  orig: 119, 116
+  offset: 0, 0
+  index: -1
+Attack_3/tornado/Layer 13_3
+  rotate: false
+  xy: 165, 0
+  size: 119, 116
+  orig: 119, 116
+  offset: 0, 0
+  index: -1
+Attack_3/tornado/t_particle
+  rotate: false
+  xy: 0, 90
+  size: 141, 144
+  orig: 141, 144
+  offset: 0, 0
+  index: -1
+smoke_tail_dop
+  rotate: true
+  xy: 286, 18
+  size: 98, 45
+  orig: 98, 45
+  offset: 0, 0
+  index: -1
+smoke_tail_dop2
+  rotate: false
+  xy: 0, 38
+  size: 163, 50
+  orig: 163, 50
+  offset: 0, 0
+  index: -1
+smoke_tail_shine
+  rotate: false
+  xy: 0, 236
+  size: 390, 160
+  orig: 390, 160
+  offset: 0, 0
+  index: -1

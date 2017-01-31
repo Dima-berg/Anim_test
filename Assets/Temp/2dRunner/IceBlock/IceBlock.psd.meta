@@ -1,0 +1,265 @@
+fileFormatVersion: 2
+guid: 09d68af5f4b0cad428d2107e43510f87
+timeCreated: 1482309144
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: IceBlockMain
+    21300002: IceRock1
+    21300004: IceRock2
+    21300006: IceRock3
+    21300008: IceKnife1
+    21300010: IceKnife2
+    21300012: IceKnife3
+    21300014: IceKnife4
+    21300016: IceKnife5
+    21300018: IceKnife6
+    21300020: IceKnife7
+    21300022: IceRock4
+    21300024: IceRock7
+    21300026: Puddle
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 512
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IceBlockMain
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 82
+        width: 428
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.005631566}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IceRock1
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 32
+        width: 131
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5076853, y: 0.1339027}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IceRock2
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 535
+        width: 90
+        height: 71
+      alignment: 9
+      pivot: {x: 0.50000006, y: 0.08738171}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IceRock3
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 621
+        width: 70
+        height: 74
+      alignment: 9
+      pivot: {x: 0.48325935, y: 0.21495922}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IceKnife1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 74
+        width: 97
+        height: 206
+      alignment: 9
+      pivot: {x: 0.5362423, y: 0.10180305}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IceKnife2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 310
+        width: 71
+        height: 191
+      alignment: 9
+      pivot: {x: 0.4504861, y: 0.07666655}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IceKnife3
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 178
+        width: 87
+        height: 207
+      alignment: 9
+      pivot: {x: 0.5000007, y: 0.04711649}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IceKnife4
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 393
+        width: 90
+        height: 147
+      alignment: 9
+      pivot: {x: 0.46093953, y: 0.10141635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IceKnife5
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 550
+        width: 82
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06788559}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IceKnife6
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 608
+        width: 101
+        height: 89
+      alignment: 9
+      pivot: {x: 0.08231573, y: 0.5000007}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IceKnife7
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 618
+        width: 130
+        height: 76
+      alignment: 9
+      pivot: {x: 0.148449, y: 0.5000008}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IceRock4
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 621
+        width: 61
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IceRock7
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 608
+        width: 67
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Puddle
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 5
+        width: 537
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -3,11 +3,14 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class CanvasController : MonoBehaviour
+public class CanvasController : Singleton<CanvasController>
 {
+    public ParticleSystem particleSystem;
+
     [Header("Animators")]
     public Animator animatorBody;
     public Animator animatorSoul;
+    public Animator animatorSmoke;
 
     [Header("Animator parameters")]
     public bool animatorGround = true;
@@ -19,6 +22,7 @@ public class CanvasController : MonoBehaviour
     public bool animatorStartRound = false;
     public int animatorFinish = -1;
     public bool animatorAttack = false;
+    public bool animatorInvisibility = false;
 
     [Header("Canvas parameters")]
     public Toggle canvasGround;
@@ -30,6 +34,7 @@ public class CanvasController : MonoBehaviour
     public Toggle canvasStartRound;
     public InputField canvasFinish;
     public Toggle canvasAttack;
+    public Toggle canvasInvisibility;
 
     void Start ()
     {
@@ -50,10 +55,15 @@ public class CanvasController : MonoBehaviour
         animatorXSpeed = float.Parse(canvasXSpeed.text);
         animatorYSpeed = float.Parse(canvasYSpeed.text);
         animatorDead = canvasDead.isOn;
+        if (animatorShow != canvasShow.isOn)
+        {
+            particleSystem.Play();
+        }
         animatorShow = canvasShow.isOn;
         animatorStartRound = canvasStartRound.isOn;
         animatorFinish = int.Parse(canvasFinish.text);
         animatorAttack = canvasAttack.isOn;
+        animatorInvisibility = canvasInvisibility.isOn;        
     }
 
     void SetCanvasParametrs ()
@@ -63,10 +73,15 @@ public class CanvasController : MonoBehaviour
         canvasXSpeed.text = animatorXSpeed.ToString();
         canvasYSpeed.text = animatorYSpeed.ToString();
         canvasDead.isOn = animatorDead;
+        if (animatorShow != canvasShow.isOn)
+        {
+            particleSystem.Play();
+        }
         canvasShow.isOn = animatorShow;
         canvasStartRound.isOn = animatorStartRound;
         canvasFinish.text = animatorFinish.ToString();
         canvasAttack.isOn = animatorAttack;
+        canvasInvisibility.isOn = animatorInvisibility;
     }
 
     void SetAnimatorParametrs ()
@@ -81,6 +96,7 @@ public class CanvasController : MonoBehaviour
         animatorBody.SetBool("StartRound", animatorStartRound);
         animatorBody.SetInteger("Finish", animatorFinish);
         animatorBody.SetBool("Attack", animatorAttack);
+        animatorBody.SetBool("Invisibility", animatorInvisibility);
 
         //Значение для аниматора Soul
         animatorSoul.SetBool("Ground", animatorGround);
@@ -92,5 +108,9 @@ public class CanvasController : MonoBehaviour
         animatorSoul.SetBool("StartRound", animatorStartRound);
         animatorSoul.SetInteger("Finish", animatorFinish);
         animatorSoul.SetBool("Attack", animatorAttack);
+        animatorSoul.SetBool("Invisibility", animatorInvisibility);
+
+        //Значение для аниматора Smoke
+        animatorSmoke.SetBool("Smoke", animatorSoul.GetBool("Invisibility"));
     }
 }
