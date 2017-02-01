@@ -7,7 +7,7 @@ public class OriginalStateController : StateMachineBehaviour
 {
     override public void OnStateUpdate(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
     {
-        if (animator.GetBool("Show") && !stateInfo.IsName("Null") && !stateInfo.IsName("Show"))
+        if (animator.GetBool("Show") && !stateInfo.IsName("HideIdle") && !stateInfo.IsName("Show"))
         {
             if (!stateInfo.IsName("Dead") && !stateInfo.IsName("DeadIdle") && !stateInfo.IsName("Rise") && animator.GetBool("Dead"))
             {
@@ -49,7 +49,7 @@ public class OriginalStateController : StateMachineBehaviour
             }
         }
 
-        if (!stateInfo.IsName("Hide") && !stateInfo.IsName("Null") && !animator.GetBool("Show"))
+        if (!stateInfo.IsName("Hide") && !stateInfo.IsName("HideIdle") && !animator.GetBool("Show"))
         {
             Hide(animator);
         }

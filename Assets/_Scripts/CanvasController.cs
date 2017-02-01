@@ -11,6 +11,7 @@ public class CanvasController : Singleton<CanvasController>
     public Animator animatorBody;
     public Animator animatorSoul;
     public Animator animatorSmoke;
+    public Animator animatorMask;
 
     [Header("Animator parameters")]
     public bool animatorGround = true;
@@ -112,5 +113,15 @@ public class CanvasController : Singleton<CanvasController>
 
         //Значение для аниматора Smoke
         animatorSmoke.SetBool("Smoke", animatorSoul.GetBool("Invisibility"));
+
+        //Значение для аниматора Mask
+        animatorMask.SetBool("Attack", animatorAttack);
+        animatorMask.SetBool("Show", animatorShow);
+        animatorAttack = false;
+    }
+
+    public void TimeScale (float _timeScale)
+    {
+        Time.timeScale = _timeScale;
     }
 }
