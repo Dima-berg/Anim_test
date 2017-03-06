@@ -1,174 +1,174 @@
 
 B_Run_Slice.png
-size: 512,512
+size: 1024,1024
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 arm_left_1
-  rotate: true
-  xy: 399, 220
-  size: 133, 43
-  orig: 133, 43
+  rotate: false
+  xy: 692, 718
+  size: 265, 85
+  orig: 265, 85
   offset: 0, 0
   index: -1
 arm_left_2
   rotate: true
-  xy: 420, 356
-  size: 55, 37
-  orig: 55, 37
+  xy: 184, 296
+  size: 109, 73
+  orig: 109, 73
   offset: 0, 0
   index: -1
 arm_left_3
-  rotate: true
-  xy: 124, 218
-  size: 134, 45
-  orig: 134, 45
+  rotate: false
+  xy: 661, 627
+  size: 267, 89
+  orig: 267, 89
   offset: 0, 0
   index: -1
 arm_left_4
-  rotate: true
-  xy: 93, 140
-  size: 60, 44
-  orig: 60, 44
+  rotate: false
+  xy: 901, 932
+  size: 119, 88
+  orig: 119, 88
   offset: 0, 0
   index: -1
 arm_left_5
   rotate: true
-  xy: 420, 413
-  size: 49, 32
-  orig: 49, 32
+  xy: 202, 96
+  size: 97, 64
+  orig: 97, 64
   offset: 0, 0
   index: -1
 arm_left_6
   rotate: true
-  xy: 93, 88
-  size: 50, 44
-  orig: 50, 44
+  xy: 184, 195
+  size: 99, 88
+  orig: 99, 88
   offset: 0, 0
   index: -1
 arm_right_1
   rotate: false
-  xy: 316, 464
-  size: 136, 46
-  orig: 136, 46
+  xy: 628, 929
+  size: 271, 91
+  orig: 271, 91
   offset: 0, 0
   index: -1
 arm_right_2
-  rotate: true
-  xy: 106, 26
-  size: 60, 44
-  orig: 60, 44
+  rotate: false
+  xy: 793, 537
+  size: 119, 88
+  orig: 119, 88
   offset: 0, 0
   index: -1
 arm_right_3
   rotate: true
-  xy: 351, 219
-  size: 134, 46
-  orig: 134, 46
+  xy: 246, 438
+  size: 268, 91
+  orig: 268, 91
   offset: 0, 0
   index: -1
 arm_right_4
   rotate: true
-  xy: 444, 294
-  size: 60, 44
-  orig: 60, 44
+  xy: 908, 811
+  size: 119, 88
+  orig: 119, 88
   offset: 0, 0
   index: -1
 arm_right_5
-  rotate: false
-  xy: 444, 213
-  size: 42, 31
-  orig: 42, 31
+  rotate: true
+  xy: 959, 725
+  size: 84, 61
+  orig: 84, 61
   offset: 0, 0
   index: -1
 arm_right_6
   rotate: true
-  xy: 444, 246
-  size: 46, 36
-  orig: 46, 36
+  xy: 202, 3
+  size: 91, 72
+  orig: 91, 72
   offset: 0, 0
   index: -1
 eyes
   rotate: false
-  xy: 171, 216
-  size: 68, 36
-  orig: 68, 36
+  xy: 339, 440
+  size: 136, 71
+  orig: 136, 71
   offset: 0, 0
   index: -1
 hair_1
   rotate: true
-  xy: 0, 202
-  size: 150, 122
-  orig: 150, 122
+  xy: 0, 407
+  size: 299, 244
+  orig: 299, 244
   offset: 0, 0
   index: -1
 head
   rotate: false
-  xy: 0, 354
-  size: 142, 156
-  orig: 142, 156
+  xy: 0, 708
+  size: 284, 312
+  orig: 284, 312
   offset: 0, 0
   index: -1
 hood_1
-  rotate: false
-  xy: 0, 14
-  size: 104, 72
-  orig: 104, 72
+  rotate: true
+  xy: 516, 515
+  size: 208, 143
+  orig: 208, 143
   offset: 0, 0
   index: -1
 hood_2
-  rotate: true
-  xy: 357, 355
-  size: 107, 61
-  orig: 107, 61
+  rotate: false
+  xy: 692, 805
+  size: 214, 122
+  orig: 214, 122
   offset: 0, 0
   index: -1
 leg_Left_1
   rotate: true
-  xy: 144, 361
-  size: 88, 109
-  orig: 88, 109
+  xy: 286, 725
+  size: 175, 218
+  orig: 175, 218
   offset: 0, 0
   index: -1
 leg_right_1
   rotate: true
-  xy: 144, 451
-  size: 59, 170
-  orig: 59, 170
+  xy: 286, 902
+  size: 118, 340
+  orig: 118, 340
   offset: 0, 0
   index: -1
 leg_right_2
   rotate: true
-  xy: 255, 361
-  size: 88, 100
-  orig: 88, 100
+  xy: 0, 5
+  size: 175, 200
+  orig: 175, 200
   offset: 0, 0
   index: -1
 pants_left
   rotate: false
-  xy: 171, 254
-  size: 88, 105
-  orig: 88, 105
+  xy: 339, 513
+  size: 175, 210
+  orig: 175, 210
   offset: 0, 0
   index: -1
 pants_right_2
-  rotate: false
-  xy: 261, 267
-  size: 88, 92
-  orig: 88, 92
+  rotate: true
+  xy: 506, 725
+  size: 175, 184
+  orig: 175, 184
   offset: 0, 0
   index: -1
 tors_1
   rotate: false
-  xy: 0, 88
-  size: 91, 112
-  orig: 91, 112
+  xy: 0, 182
+  size: 182, 223
+  orig: 182, 223
   offset: 0, 0
   index: -1
 tors_2
-  rotate: true
-  xy: 454, 445
-  size: 65, 56
-  orig: 65, 56
+  rotate: false
+  xy: 661, 514
+  size: 130, 111
+  orig: 130, 111
   offset: 0, 0
   index: -1

@@ -1,90 +1,90 @@
 
 shio_Slice.png
-size: 1024,1024
+size: 2048,2048
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 armLeft
   rotate: false
-  xy: 0, 258
-  size: 137, 153
-  orig: 137, 153
+  xy: 0, 510
+  size: 273, 305
+  orig: 273, 305
   offset: 0, 0
   index: -1
 armRight
   rotate: false
-  xy: 0, 103
-  size: 137, 153
-  orig: 137, 153
+  xy: 0, 203
+  size: 273, 305
+  orig: 273, 305
   offset: 0, 0
   index: -1
 body
   rotate: true
-  xy: 0, 572
-  size: 266, 90
-  orig: 266, 90
+  xy: 0, 1132
+  size: 531, 180
+  orig: 531, 180
   offset: 0, 0
   index: -1
 head
   rotate: true
-  xy: 475, 850
-  size: 148, 157
-  orig: 148, 157
+  xy: 944, 1684
+  size: 296, 313
+  orig: 296, 313
   offset: 0, 0
   index: -1
 leg_Left
   rotate: true
-  xy: 92, 659
-  size: 179, 137
-  orig: 179, 137
+  xy: 182, 1306
+  size: 357, 274
+  orig: 357, 274
   offset: 0, 0
   index: -1
 leg_Right
   rotate: false
-  xy: 0, 840
-  size: 215, 158
-  orig: 215, 158
+  xy: 0, 1665
+  size: 429, 315
+  orig: 429, 315
   offset: 0, 0
   index: -1
 mouth_close
   rotate: true
-  xy: 634, 850
-  size: 148, 157
-  orig: 148, 157
+  xy: 1259, 1684
+  size: 296, 313
+  orig: 296, 313
   offset: 0, 0
   index: -1
 mouth_open
   rotate: true
-  xy: 793, 850
-  size: 148, 157
-  orig: 148, 157
+  xy: 1574, 1684
+  size: 296, 313
+  orig: 296, 313
   offset: 0, 0
   index: -1
 smoke_head
   rotate: false
-  xy: 0, 413
-  size: 148, 157
-  orig: 148, 157
+  xy: 0, 817
+  size: 296, 313
+  orig: 296, 313
   offset: 0, 0
   index: -1
 tail
   rotate: false
-  xy: 217, 906
-  size: 256, 92
-  orig: 256, 92
+  xy: 431, 1797
+  size: 511, 183
+  orig: 511, 183
   offset: 0, 0
   index: -1
 wing_left
   rotate: true
-  xy: 92, 577
-  size: 80, 99
-  orig: 80, 99
+  xy: 182, 1145
+  size: 159, 198
+  orig: 159, 198
   offset: 0, 0
   index: -1
 wing_right
   rotate: false
   xy: 0, 0
-  size: 111, 101
-  orig: 111, 101
+  size: 222, 201
+  orig: 222, 201
   offset: 0, 0
   index: -1

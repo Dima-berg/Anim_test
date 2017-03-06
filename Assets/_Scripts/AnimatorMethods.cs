@@ -6,7 +6,9 @@ public class AnimatorMethods : MonoBehaviour
 {
     public ParticleSystem ParticleSystemCatHeadSmoke;
     public ParticleSystem ParticleSystemCatHeadLights;
+    public ParticleSystem ParticleSystemMaskAttackParticleCircle;
     public Animator animator;
+    public Animator AnimatorMaskAttackWawe;
 
     void Start()
     {
@@ -29,6 +31,14 @@ public class AnimatorMethods : MonoBehaviour
                 ParticleSystemCatHeadStop();
             }
         }
+
+        if (AnimatorMaskAttackWawe)
+        {
+            if (animator.GetBool("Attack"))
+            {
+                MaskAttack();
+            }
+        }
     } 
 
     public void ParticleSystemCatHeadPlay ()
@@ -41,5 +51,11 @@ public class AnimatorMethods : MonoBehaviour
     {
         ParticleSystemCatHeadSmoke.Stop();
         ParticleSystemCatHeadLights.Stop();
+    }
+
+    public void MaskAttack ()
+    {
+        ParticleSystemMaskAttackParticleCircle.Play();
+        AnimatorMaskAttackWawe.SetTrigger("Attack");
     }
 }

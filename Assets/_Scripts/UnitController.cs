@@ -6,7 +6,7 @@ public class UnitController : MonoBehaviour
 {
     public Animator bodyAnimator;
     public Animator soulAnimator;
-    public float MetamorphosisTimer = 0.35f;
+    //public float MetamorphosisTimer = 0.35f;
 
 
     void Start ()
@@ -19,15 +19,19 @@ public class UnitController : MonoBehaviour
     {
         if (bodyAnimator.GetBool("Metamorphosis"))
         {
-            StartCoroutine("MetamorphosisSoul");
+            //StartCoroutine("MetamorphosisSoul");
+            //bodyAnimator.CrossFade("Hide", 0.25f);
+            //soulAnimator.CrossFade("Show", 0.25f);
         }
         else
         {
-            StartCoroutine("MetamorphosisBody");
+            //StartCoroutine("MetamorphosisBody");
+            //soulAnimator.CrossFade("Hide", 0.25f);
+            //bodyAnimator.CrossFade("Show", 0.25f);
         }
     }
 
-    IEnumerator MetamorphosisBody ()
+    /*IEnumerator MetamorphosisBody ()
     {
         soulAnimator.CrossFade("Hide", 0.25f);
         yield return new WaitForSeconds(MetamorphosisTimer);
@@ -39,5 +43,5 @@ public class UnitController : MonoBehaviour
         bodyAnimator.CrossFade("Hide", 0.25f);
         yield return new WaitForSeconds(MetamorphosisTimer);
         soulAnimator.CrossFade("Show", 0.25f);
-    }
+    }*/
 }

@@ -1,0 +1,104 @@
+
+Source_spirit_water.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+W_Arm_
+  rotate: false
+  xy: 150, 384
+  size: 76, 124
+  orig: 76, 124
+  offset: 0, 0
+  index: -1
+W_Arm_L
+  rotate: false
+  xy: 228, 405
+  size: 67, 103
+  orig: 67, 103
+  offset: 0, 0
+  index: -1
+W_Arm_R
+  rotate: true
+  xy: 0, 9
+  size: 80, 70
+  orig: 80, 70
+  offset: 0, 0
+  index: -1
+W_Body_1
+  rotate: false
+  xy: 366, 452
+  size: 82, 56
+  orig: 82, 56
+  offset: 0, 0
+  index: -1
+W_Body_2
+  rotate: true
+  xy: 72, 112
+  size: 80, 42
+  orig: 80, 42
+  offset: 0, 0
+  index: -1
+W_Body_3
+  rotate: false
+  xy: 75, 194
+  size: 61, 53
+  orig: 61, 53
+  offset: 0, 0
+  index: -1
+W_Fingers_R1
+  rotate: false
+  xy: 450, 460
+  size: 58, 48
+  orig: 58, 48
+  offset: 0, 0
+  index: -1
+W_Fingers_R2
+  rotate: false
+  xy: 228, 384
+  size: 34, 19
+  orig: 34, 19
+  offset: 0, 0
+  index: -1
+W_Fingers_R3
+  rotate: false
+  xy: 150, 361
+  size: 34, 21
+  orig: 34, 21
+  offset: 0, 0
+  index: -1
+W_Hand_L
+  rotate: false
+  xy: 0, 91
+  size: 70, 106
+  orig: 70, 106
+  offset: 0, 0
+  index: -1
+W_Head
+  rotate: false
+  xy: 297, 427
+  size: 67, 81
+  orig: 67, 81
+  offset: 0, 0
+  index: -1
+W_Layer 11
+  rotate: false
+  xy: 0, 357
+  size: 148, 151
+  orig: 148, 151
+  offset: 0, 0
+  index: -1
+W_Water_tail
+  rotate: true
+  xy: 0, 199
+  size: 156, 73
+  orig: 156, 73
+  offset: 0, 0
+  index: -1
+W_hand_R
+  rotate: false
+  xy: 75, 249
+  size: 65, 106
+  orig: 65, 106
+  offset: 0, 0
+  index: -1

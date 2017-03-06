@@ -1,69 +1,69 @@
 
 Wall CUT_back.png
-size: 2048,2048
+size: 1024,1024
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 effect/1
-  rotate: false
-  xy: 0, 0
-  size: 347, 268
-  orig: 347, 268
+  rotate: true
+  xy: 832, 791
+  size: 229, 177
+  orig: 229, 177
   offset: 0, 0
   index: -1
 effect/2
   rotate: false
-  xy: 1259, 1624
-  size: 260, 271
-  orig: 260, 271
+  xy: 480, 246
+  size: 172, 179
+  orig: 172, 179
   offset: 0, 0
   index: -1
 effect/3
   rotate: false
-  xy: 450, 707
-  size: 277, 287
-  orig: 277, 287
+  xy: 832, 600
+  size: 182, 189
+  orig: 182, 189
   offset: 0, 0
   index: -1
 effect/4
-  rotate: false
-  xy: 450, 479
-  size: 215, 226
-  orig: 215, 226
+  rotate: true
+  xy: 480, 102
+  size: 142, 149
+  orig: 142, 149
   offset: 0, 0
   index: -1
 effect/5
   rotate: false
-  xy: 1259, 1429
-  size: 244, 193
-  orig: 244, 193
+  xy: 0, 0
+  size: 161, 127
+  orig: 161, 127
   offset: 0, 0
   index: -1
 effect/6
   rotate: false
-  xy: 920, 1023
-  size: 233, 159
-  orig: 233, 159
+  xy: 608, 444
+  size: 153, 105
+  orig: 153, 105
   offset: 0, 0
   index: -1
 effect/All clouds merged
   rotate: false
-  xy: 0, 996
-  size: 918, 899
-  orig: 918, 899
+  xy: 0, 427
+  size: 606, 593
+  orig: 606, 593
   offset: 0, 0
   index: -1
 effect/Backwall
-  rotate: false
-  xy: 0, 270
-  size: 448, 724
-  orig: 448, 724
+  rotate: true
+  xy: 0, 129
+  size: 296, 478
+  orig: 296, 478
   offset: 0, 0
   index: -1
 effect/Light stripes
   rotate: false
-  xy: 920, 1184
-  size: 337, 711
-  orig: 337, 711
+  xy: 608, 551
+  size: 222, 469
+  orig: 222, 469
   offset: 0, 0
   index: -1
