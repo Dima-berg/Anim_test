@@ -1,0 +1,209 @@
+
+Golem.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 101
+  rotate: false
+  xy: 170, 62
+  size: 22, 31
+  orig: 22, 31
+  offset: 0, 0
+  index: -1
+Layer 103
+  rotate: false
+  xy: 194, 68
+  size: 15, 25
+  orig: 15, 25
+  offset: 0, 0
+  index: -1
+Layer 105
+  rotate: false
+  xy: 241, 212
+  size: 12, 21
+  orig: 12, 21
+  offset: 0, 0
+  index: -1
+Layer 105 copy
+  rotate: false
+  xy: 156, 0
+  size: 9, 20
+  orig: 9, 20
+  offset: 0, 0
+  index: -1
+Layer 107
+  rotate: false
+  xy: 177, 201
+  size: 62, 53
+  orig: 62, 53
+  offset: 0, 0
+  index: -1
+Layer 108
+  rotate: false
+  xy: 119, 43
+  size: 49, 59
+  orig: 49, 59
+  offset: 0, 0
+  index: -1
+Layer 109
+  rotate: true
+  xy: 170, 43
+  size: 17, 28
+  orig: 17, 28
+  offset: 0, 0
+  index: -1
+Layer 110
+  rotate: true
+  xy: 173, 95
+  size: 19, 32
+  orig: 19, 32
+  offset: 0, 0
+  index: -1
+Layer 111
+  rotate: false
+  xy: 211, 90
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+Layer 113
+  rotate: true
+  xy: 238, 161
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+Layer 118
+  rotate: false
+  xy: 241, 235
+  size: 13, 19
+  orig: 13, 19
+  offset: 0, 0
+  index: -1
+Layer 121
+  rotate: false
+  xy: 211, 70
+  size: 11, 18
+  orig: 11, 18
+  offset: 0, 0
+  index: -1
+Layer 126
+  rotate: true
+  xy: 109, 104
+  size: 68, 62
+  orig: 68, 62
+  offset: 0, 0
+  index: -1
+Layer 126 copy
+  rotate: false
+  xy: 177, 155
+  size: 59, 44
+  orig: 59, 44
+  offset: 0, 0
+  index: -1
+Layer 133
+  rotate: true
+  xy: 211, 117
+  size: 36, 32
+  orig: 36, 32
+  offset: 0, 0
+  index: -1
+Layer 134
+  rotate: false
+  xy: 109, 174
+  size: 66, 80
+  orig: 66, 80
+  offset: 0, 0
+  index: -1
+Layer 136
+  rotate: false
+  xy: 0, 36
+  size: 70, 65
+  orig: 70, 65
+  offset: 0, 0
+  index: -1
+Layer 80
+  rotate: false
+  xy: 0, 103
+  size: 107, 49
+  orig: 107, 49
+  offset: 0, 0
+  index: -1
+Layer 80_1
+  rotate: true
+  xy: 72, 36
+  size: 65, 45
+  orig: 65, 45
+  offset: 0, 0
+  index: -1
+Layer 84
+  rotate: false
+  xy: 173, 116
+  size: 36, 37
+  orig: 36, 37
+  offset: 0, 0
+  index: -1
+Layer 85
+  rotate: false
+  xy: 129, 22
+  size: 40, 19
+  orig: 40, 19
+  offset: 0, 0
+  index: -1
+Layer 86 copy
+  rotate: true
+  xy: 245, 142
+  size: 17, 9
+  orig: 17, 9
+  offset: 0, 0
+  index: -1
+Layer 87
+  rotate: false
+  xy: 238, 184
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+Layer 90
+  rotate: false
+  xy: 0, 154
+  size: 107, 100
+  orig: 107, 100
+  offset: 0, 0
+  index: -1
+Layer 91
+  rotate: true
+  xy: 171, 19
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+Layer 93
+  rotate: false
+  xy: 92, 2
+  size: 35, 32
+  orig: 35, 32
+  offset: 0, 0
+  index: -1
+Layer 95
+  rotate: true
+  xy: 32, 9
+  size: 25, 58
+  orig: 25, 58
+  offset: 0, 0
+  index: -1
+Layer 97
+  rotate: true
+  xy: 129, 0
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+Layer 99
+  rotate: false
+  xy: 0, 0
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
