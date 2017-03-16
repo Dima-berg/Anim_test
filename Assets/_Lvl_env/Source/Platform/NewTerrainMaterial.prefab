@@ -1,0 +1,233 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1000013246214798}
+  m_IsPrefabParent: 1
+--- !u!1 &1000013246214798
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 4000011813663850}
+  - 114: {fileID: 114000012755120358}
+  m_Layer: 0
+  m_Name: NewTerrainMaterial
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4000011813663850
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000013246214798}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!114 &114000012755120358
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000013246214798}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a21887e1cf80db49978ff567bcdd66c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  fillMaterial: {fileID: 2100000, guid: 056e7799a0cdbec4b980c9ba0df40996, type: 2}
+  edgeMaterial: {fileID: 2100000, guid: 1c02bfeb0ac1e0a45a491baa6e1b2c50, type: 2}
+  descriptors:
+  - applyTo: 0
+    zOffset: -0.2
+    yOffset: 0.35
+    leftCap:
+      serializedVersion: 2
+      x: 0.048828125
+      y: 0.8746964
+      width: 0.07910156
+      height: 0.12530364
+    innerLeftCap:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    rightCap:
+      serializedVersion: 2
+      x: 0.3642578
+      y: 0.87225527
+      width: 0.07519531
+      height: 0.12774475
+    innerRightCap:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    body:
+    - serializedVersion: 2
+      x: 0.029296875
+      y: 0.051261187
+      width: 0.44628906
+      height: 0.15459724
+    - serializedVersion: 2
+      x: 0.025390625
+      y: 0.28071624
+      width: 0.4482422
+      height: 0.17737997
+    - serializedVersion: 2
+      x: 0.025390625
+      y: 0.49715215
+      width: 0.44921875
+      height: 0.17737998
+    - serializedVersion: 2
+      x: 0.029296875
+      y: 0.6639546
+      width: 0.4482422
+      height: 0.17738019
+    - serializedVersion: 2
+      x: 0.5185547
+      y: 0.66476804
+      width: 0.4482422
+      height: 0.17738004
+    capOffset: -0.6
+  - applyTo: 1
+    zOffset: 0
+    yOffset: 0
+    leftCap:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    innerLeftCap:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    rightCap:
+      serializedVersion: 2
+      x: 0.009765625
+      y: 0
+      width: 0
+      height: 0
+    innerRightCap:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    body:
+    - serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0.009765625
+      height: 0.00813657
+    capOffset: 0
+  - applyTo: 2
+    zOffset: 0
+    yOffset: 0
+    leftCap:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    innerLeftCap:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    rightCap:
+      serializedVersion: 2
+      x: 0.0146484375
+      y: 0
+      width: 0
+      height: 0
+    innerRightCap:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    body:
+    - serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0.0146484375
+      height: 0.025729122
+    capOffset: 0
+  - applyTo: 3
+    zOffset: -0.1
+    yOffset: 0.2
+    leftCap:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    innerLeftCap:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    rightCap:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    innerRightCap:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    body:
+    - serializedVersion: 2
+      x: 0.53515625
+      y: 0.5112262
+      width: 0.45507812
+      height: 0.09764036
+    - serializedVersion: 2
+      x: 0.51660156
+      y: 0.0065093758
+      width: 0.4580078
+      height: 0.09764035
+    - serializedVersion: 2
+      x: 0.52734375
+      y: 0.1790073
+      width: 0.46484375
+      height: 0.09764037
+    - serializedVersion: 2
+      x: 0.53222656
+      y: 0.34987798
+      width: 0.45996094
+      height: 0.09764043
+    - serializedVersion: 2
+      x: 0.5136719
+      y: 0.82912934
+      width: 0.45703125
+      height: 0.09764021
+    capOffset: -0.27
+  isPixel: 0
