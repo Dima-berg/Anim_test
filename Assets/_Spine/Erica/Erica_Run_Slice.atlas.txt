@@ -1,0 +1,216 @@
+
+Erica_Run_Slice.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B_images/arm_left_1
+  rotate: false
+  xy: 393, 451
+  size: 87, 28
+  orig: 87, 28
+  offset: 0, 0
+  index: -1
+B_images/arm_left_3
+  rotate: false
+  xy: 393, 481
+  size: 88, 29
+  orig: 88, 29
+  offset: 0, 0
+  index: -1
+B_images/arm_left_4
+  rotate: true
+  xy: 41, 24
+  size: 39, 29
+  orig: 39, 29
+  offset: 0, 0
+  index: -1
+B_images/head
+  rotate: false
+  xy: 0, 368
+  size: 94, 103
+  orig: 94, 103
+  offset: 0, 0
+  index: -1
+B_images/leg_Left_1
+  rotate: false
+  xy: 0, 241
+  size: 58, 125
+  orig: 58, 125
+  offset: 0, 0
+  index: -1
+Jaket_1
+  rotate: true
+  xy: 60, 122
+  size: 64, 41
+  orig: 64, 41
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: false
+  xy: 0, 473
+  size: 189, 37
+  orig: 189, 37
+  offset: 0, 0
+  index: -1
+arm_left_1
+  rotate: false
+  xy: 96, 369
+  size: 81, 25
+  orig: 81, 25
+  offset: 0, 0
+  index: -1
+arm_left_2
+  rotate: true
+  xy: 261, 358
+  size: 36, 24
+  orig: 36, 24
+  offset: 0, 0
+  index: -1
+arm_left_3
+  rotate: true
+  xy: 60, 188
+  size: 88, 29
+  orig: 88, 29
+  offset: 0, 0
+  index: -1
+arm_left_4
+  rotate: true
+  xy: 72, 81
+  size: 39, 29
+  orig: 39, 29
+  offset: 0, 0
+  index: -1
+arm_left_5
+  rotate: true
+  xy: 286, 418
+  size: 32, 21
+  orig: 32, 21
+  offset: 0, 0
+  index: -1
+arm_left_6
+  rotate: false
+  xy: 72, 9
+  size: 33, 29
+  orig: 33, 29
+  offset: 0, 0
+  index: -1
+arm_right_1
+  rotate: false
+  xy: 179, 364
+  size: 80, 30
+  orig: 80, 30
+  offset: 0, 0
+  index: -1
+arm_right_2
+  rotate: true
+  xy: 72, 40
+  size: 39, 29
+  orig: 39, 29
+  offset: 0, 0
+  index: -1
+arm_right_3
+  rotate: true
+  xy: 60, 278
+  size: 88, 30
+  orig: 88, 30
+  offset: 0, 0
+  index: -1
+arm_right_4
+  rotate: false
+  xy: 309, 400
+  size: 39, 29
+  orig: 39, 29
+  offset: 0, 0
+  index: -1
+arm_right_5
+  rotate: false
+  xy: 483, 488
+  size: 27, 22
+  orig: 27, 22
+  offset: 0, 0
+  index: -1
+arm_right_6
+  rotate: false
+  xy: 350, 400
+  size: 36, 29
+  orig: 36, 29
+  offset: 0, 0
+  index: -1
+eye_closed
+  rotate: true
+  xy: 92, 327
+  size: 39, 26
+  orig: 39, 26
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: false
+  xy: 96, 396
+  size: 93, 75
+  orig: 93, 75
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: false
+  xy: 393, 408
+  size: 58, 41
+  orig: 58, 41
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 309, 431
+  size: 82, 79
+  orig: 82, 79
+  offset: 0, 0
+  index: -1
+leg_Left_1
+  rotate: true
+  xy: 191, 452
+  size: 58, 116
+  orig: 58, 116
+  offset: 0, 0
+  index: -1
+leg_right_1
+  rotate: false
+  xy: 0, 0
+  size: 39, 112
+  orig: 39, 112
+  offset: 0, 0
+  index: -1
+leg_right_2
+  rotate: false
+  xy: 0, 114
+  size: 58, 125
+  orig: 58, 125
+  offset: 0, 0
+  index: -1
+stunstar
+  rotate: true
+  xy: 482, 453
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+tors_1
+  rotate: true
+  xy: 191, 396
+  size: 54, 93
+  orig: 54, 93
+  offset: 0, 0
+  index: -1
+tors_2
+  rotate: true
+  xy: 453, 406
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: -1
+tors_3
+  rotate: true
+  xy: 41, 65
+  size: 47, 29
+  orig: 47, 29
+  offset: 0, 0
+  index: -1
