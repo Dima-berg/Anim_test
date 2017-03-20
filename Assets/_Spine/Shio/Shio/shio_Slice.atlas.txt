@@ -1,90 +1,90 @@
 
 shio_Slice.png
-size: 2048,2048
+size: 512,512
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 armLeft
   rotate: false
-  xy: 0, 510
-  size: 273, 305
-  orig: 273, 305
+  xy: 420, 409
+  size: 90, 101
+  orig: 90, 101
   offset: 0, 0
   index: -1
 armRight
-  rotate: false
-  xy: 0, 203
-  size: 273, 305
-  orig: 273, 305
+  rotate: true
+  xy: 153, 253
+  size: 90, 101
+  orig: 90, 101
   offset: 0, 0
   index: -1
 body
   rotate: true
-  xy: 0, 1132
-  size: 531, 180
-  orig: 531, 180
+  xy: 0, 229
+  size: 175, 59
+  orig: 175, 59
   offset: 0, 0
   index: -1
 head
   rotate: true
-  xy: 944, 1684
-  size: 296, 313
-  orig: 296, 313
+  xy: 315, 412
+  size: 98, 103
+  orig: 98, 103
   offset: 0, 0
   index: -1
 leg_Left
   rotate: true
-  xy: 182, 1306
-  size: 357, 274
-  orig: 357, 274
+  xy: 61, 286
+  size: 118, 90
+  orig: 118, 90
   offset: 0, 0
   index: -1
 leg_Right
   rotate: false
-  xy: 0, 1665
-  size: 429, 315
-  orig: 429, 315
+  xy: 0, 406
+  size: 142, 104
+  orig: 142, 104
   offset: 0, 0
   index: -1
 mouth_close
-  rotate: true
-  xy: 1259, 1684
-  size: 296, 313
-  orig: 296, 313
+  rotate: false
+  xy: 0, 124
+  size: 98, 103
+  orig: 98, 103
   offset: 0, 0
   index: -1
 mouth_open
-  rotate: true
-  xy: 1574, 1684
-  size: 296, 313
-  orig: 296, 313
+  rotate: false
+  xy: 0, 19
+  size: 98, 103
+  orig: 98, 103
   offset: 0, 0
   index: -1
 smoke_head
   rotate: false
-  xy: 0, 817
-  size: 296, 313
-  orig: 296, 313
+  xy: 153, 345
+  size: 98, 103
+  orig: 98, 103
   offset: 0, 0
   index: -1
 tail
   rotate: false
-  xy: 431, 1797
-  size: 511, 183
-  orig: 511, 183
+  xy: 144, 450
+  size: 169, 60
+  orig: 169, 60
   offset: 0, 0
   index: -1
 wing_left
   rotate: true
-  xy: 182, 1145
-  size: 159, 198
-  orig: 159, 198
+  xy: 61, 232
+  size: 52, 65
+  orig: 52, 65
   offset: 0, 0
   index: -1
 wing_right
-  rotate: false
-  xy: 0, 0
-  size: 222, 201
-  orig: 222, 201
+  rotate: true
+  xy: 100, 157
+  size: 73, 66
+  orig: 73, 66
   offset: 0, 0
   index: -1
